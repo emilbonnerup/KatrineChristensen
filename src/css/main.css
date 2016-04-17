@@ -16,7 +16,7 @@ html {
 
 /*
  * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
+ * https://twitter.com/miketaylr/status /12228805301
  *
  * These selection rule sets have to be separate.
  * Customize the background color to match your design.
@@ -130,12 +130,16 @@ em {
 
 a {
     text-decoration:none;
-    color:#42B6F3;
+    color: #313131;
     transition:all 0.2s ease;
 }
 
 a:hover, a:focus {
     color:#222;
+}
+
+article a:hover, a:focus {
+    color: #5e5e5c;
 }
 
 h1, h2, h3, h4, h5, h6 {
