@@ -93,6 +93,7 @@ nav {
     margin-bottom: 10px;
     text-align: center;
     color: #828282;
+    width: 100%;
 }
 nav ul {
     list-style: none;

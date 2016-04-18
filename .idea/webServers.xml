@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d763d489-4b77-4ae1-b6b6-905fe5327055" name="katrinechristenen" url="http://ftp.katrinechristensen.dk">
-        <fileTransfer host="ftp.katrinechristensen.dk" port="21" password="dfe1dfcbdfdedfd8dfc3dfc4dfcfdf9bdf93df93df9c" username="emilbonnerup">
+      <webServer id="d763d489-4b77-4ae1-b6b6-905fe5327055" name="katrinechristenen" url="http://katrinechristensen.dk">
+        <fileTransfer host="ftp.katrinechristensen.dk" port="21" username="emilbonnerup@katrinechristensen.dk">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
